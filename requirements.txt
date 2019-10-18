@@ -10,5 +10,5 @@ prettytable==0.7.2
 PyYAML==3.12
 requests==2.18.1
 travis==0.0.3
-urllib3==1.21.1
+urllib3==1.24.2
 yarg==0.1.9
